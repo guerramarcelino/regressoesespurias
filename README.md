@@ -1,2 +1,2 @@
 # Regressões Espúrias
-Dados utilizados nas estimações presentes na aba regressões espúrias do site Leruaite Econômico. 
+Este repositório contém os dados utilizados nas estimações realizadas e nos gráficos do site Leruaite Econômico. 
