@@ -1,5 +1,5 @@
 # Regressões Espúrias
-Este repositório contém os dados utilizados nas estimações realizadas e nos gráficos presentes na aba "Regressões Espúrias" do site Leruaite Econômico.
+Este repositório contém os dados utilizados nas estimações realizadas e nos gráficos presentes no site [Leruaite Econômico](https://www.leruaite.com.br/).
 
  1. frf.xlsx - Post ["Inflação e política econômica"](https://www.leruaite.com.br/blog/nairu-inflacao/), 28/09/2015
  2. fismanemiguel.xlsx - Post ["A cultura da corrupção"](https://www.leruaite.com.br/blog/cultura-corrup/), 29/10/2015
